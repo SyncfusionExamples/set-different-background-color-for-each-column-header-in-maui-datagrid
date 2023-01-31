@@ -64,7 +64,7 @@ The below code illustrates how to set the different background color for each co
 ```
 The following screenshot shows the Column header with different background,
 
-![different Background Color for each column header in SfDataGrid](ColumnHeaderWithDifferentBackgroundColor.png)
+![different Background Color for each column header in SfDataGrid](ColumnHeaderWithDifferentBackground.png)
 
 Take a moment to pursue this [documentation](https://help.syncfusion.com/maui/datagrid/overview), where you can find more about Syncfusion .NET MAUI DataGrid (SfDataGrid) with code examples.
 Please refer to this [link](https://www.syncfusion.com/maui-controls/maui-datagrid) to learn about the essential features of Syncfusion .NET MAUI DataGrid(SfDataGrid).
